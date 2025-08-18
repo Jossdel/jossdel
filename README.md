@@ -17,7 +17,7 @@ I am a software engineering student, currently in the middle of my career. I am 
   - javaScript-DOM
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 👾 I love cooking , 🎮 playing videogames, 🎵 listening to music.
+-👾 I love cooking , 🎮 playing videogames, 🎵 listening to music.
 
 - 📫 Reach out to me at: <a href="josuedelgadil01@gmail.com">josuedelgadil01@gmail.com</a>
 
