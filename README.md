@@ -48,7 +48,9 @@ I am a software engineering student, currently in the middle of my career. I am 
 
 ## Check out my Social Media
 
-<a href="https://www.linkedin.com/in/josuedelgadillozorrilla/">
+<span> 
+
+  <a href="https://www.linkedin.com/in/josuedelgadillozorrilla/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -56,6 +58,8 @@ I am a software engineering student, currently in the middle of my career. I am 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=josuedelgadil01@gmail.com&su=Contacto&body=Hola%20Josue," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+</span>
 
 
 
