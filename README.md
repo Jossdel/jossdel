@@ -11,11 +11,11 @@
 
 I am a software engineering student, currently in the middle of my career. I am expanding my experience in both front-end and back-end development,  I am passionate about learning and enjoy building new, productive, innovative and creative solutions.
 
-- 🌱 I’m currently learning ...
+  - 💻 I’m currently learning ...
   - React
   - Tailwind
     
-- 👯 I’m looking forward to collaborate on open source projects.
+- 🎯  I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 -👾 I love cooking , 🎮 playing videogames, 🎵 listening to music.
 
