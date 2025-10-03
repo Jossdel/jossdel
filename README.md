@@ -8,8 +8,9 @@
 
 
 
+I'm a software engineering student currently midway through my academic journey, with hands-on experience in both front-end and back-end development. I work primarily with Node.js and React.js, and I'm passionate about building productive, innovative, and creative solutions that solve real-world problems.
 
-I am a software engineering student, currently in the middle of my career. I am expanding my experience in both front-end and back-end development,  I am passionate about learning and enjoy building new, productive, innovative and creative solutions.
+I enjoy learning new technologies, exploring best practices, and continuously improving my skills through self-driven projects and collaboration. Whether it's designing clean user interfaces or building scalable APIs, I strive to write code that is clear, efficient, and purposeful.
 
   - 💻 I’m currently learning ...
   - React
