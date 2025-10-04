@@ -12,17 +12,7 @@ I’m a junior software developer with hands-on experience in back-end developme
 I love exploring new technologies, applying best practices, and improving my skills through self-driven projects and collaboration. Whether it’s crafting scalable APIs or designing clean, user-friendly interfaces, I aim to write code that is clear, efficient, and purposeful.
 
 
-  - 💻 I’m currently learning ...
-  - React
-  - Tailwind
-    
-- 🎯  I’m looking forward to collaborate on open source projects.
--  ✔  Ask me about anything<br>
 
-- 📫 Reach out to me at: <a href="josuedelgadil01@gmail.com">josuedelgadil01@gmail.com</a>
-
- ## My portfolio ⬇️
- <a a href="https://jossdel.github.io/" target="_blank">Click here</a>
 
 ## My Skills Include
 
@@ -33,10 +23,10 @@ I love exploring new technologies, applying best practices, and improving my ski
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-
-
-
 </span>
+
+
+
 
 
 <h4> Other Tools and Technologies </h4>
@@ -65,6 +55,6 @@ I love exploring new technologies, applying best practices, and improving my ski
 </span>
 
 
+- 📫 Reach out to me at: <a href="josuedelgadil01@gmail.com">josuedelgadil01@gmail.com</a>
 
 
-</div> 
