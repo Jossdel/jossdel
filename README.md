@@ -10,7 +10,7 @@ I have experience developing REST APIs with **Node.js**, **Express**, and **Type
 
 I enjoy learning new technologies, following clean code principles, and continuously improving through personal projects and hands-on practice. My goal is to become a back-end software engineer and contribute to scalable, high-quality applications.
 
----
+
 
 ## 🚀 Tech Stack
 
