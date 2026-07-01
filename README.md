@@ -8,9 +8,7 @@ I'm a Software Engineering student passionate about back-end development and bui
 
 I have experience developing REST APIs with **Node.js**, **Express**, and **TypeScript**, and I'm currently expanding my skills with **ASP.NET Core**, **C#**, **Entity Framework Core**, and **PostgreSQL**.
 
-I enjoy learning new technologies, following clean code principles, and continuously improving through personal projects and hands-on practice. My goal is to become a back-end software engineer and contribute to scalable, high-quality applications.
-
-
+I enjoy learning new technologies, following clean code principles, and continuously improving through personal projects and hands-on experience. As a Back-End Developer, I focus on building scalable, maintainable, and high-quality applications while continuously expanding my technical skills.
 
 ## 🚀 Tech Stack
 
